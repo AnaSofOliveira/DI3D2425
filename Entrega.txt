@@ -1,0 +1,15 @@
+Descrição da ideia
+Ficheiro SCAD (se foi utilizado código de outros lados, identificá-los)
+Fotos da ideia
+Fotos do objeto real em utilização
+
+
+
+
+
+Projeto 2:
+60 mm diâmetro
+90 altura
+técnica de impressão espiral
+Prazo: 11 de outubro
+

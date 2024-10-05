@@ -1,0 +1,10 @@
+Ver liquid drops on printables
+
+
+- separação de 0,5 mm para as peças encaixarem umas nas outras e rodarem 
+- paredes com mínimo de 1 mm (ou multiplos de 0,4mm - 0.8mm ou 1,2mm)
+
+
+Licenças: 
+Creative Common tem um questionário que fornece a licença recomendada. 
+
