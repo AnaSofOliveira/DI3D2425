@@ -60,7 +60,32 @@ module base(){
     cube([2.5*raio, 2.5*raio, 2], center = true);
 }
 
-difference(){
-    copo();
+module tampa(){
+    difference(){
+    union(){
+        translate([0, 0, altura_base_copo]) 
+        anel(); 
+
+        barras_padrao_inferior(direcao = 1, step_rotacao = 10);
+        barras_padrao_inferior(direcao = 0, step_rotacao = 10);
+
+        translate([0, 0, 2])
+        anel();
+
+        cylinder(h = altura_base_copo, r = raio);
+    }
     base();
+    }
+}
+
+// difference(){
+//     copo();
+//     base();
+// }
+
+
+scale([1.07, 1.07, 1.07]) {
+    translate([100, 0, altura-altura_base_copo-5]){
+    tampa();
+    }
 }
