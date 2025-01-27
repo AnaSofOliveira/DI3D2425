@@ -1,0 +1,1 @@
+Parametric Net Pot / Net Cup for Hydroponics / Aeroponics / Fogponics by leemes on Thingiverse: https://www.thingiverse.com/thing:790339
